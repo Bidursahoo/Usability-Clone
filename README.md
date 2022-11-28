@@ -1,4 +1,5 @@
 # Usability-Clone
 
 The Original website is : https://usabilityhub.com/
-and the Cloned Web-Site: 
+
+And the Cloned Web-Site: https://glittering-licorice-efe211.netlify.app/ 
